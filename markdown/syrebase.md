@@ -1,4 +1,4 @@
-Syrer og baser er stoffer der vi enten har et overskudd av frie H3O+ eller OH-
+Syrer og baser er stoffer der vi enten har et overskudd av frie H$_3$O$^+$ eller OH$^-$
 
 ### pH i sterk syre og sterk base
 <youtube-video id="c_YfV0Q7Rl0"></youtube-video>
