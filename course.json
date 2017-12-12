@@ -1,32 +1,38 @@
 {
   "name": "generell-kjemi",
-  "header" : "/images/kjemisk_logo.svg",
-  "headertext" : "Innføringsvideoer for generell kjemi",
+  "header" : "/images/header_kjemi.svg",
+  "headertext" : "Temaer i <br>Generell Kjemi",
+  "footer" : "/images/footer_kjemi_ub.svg",
   "modules": [
+    {
+      "id" : "introduksjon",
+      "image" : "/images/termodynamikk_liten.jpg",
+      "name" : "Introduksjon"
+    },
     {
       "id": "termodynamikk",
       "image": "/images/termodynamikk_liten.jpg",
-      "name": "0.1 Termodynamikk"
+      "name": "Termodynamikk"
     },
     {
       "id": "syrebase",
       "image": "/images/syrebase_liten.jpg",
-      "name": "0.2 Syrer og baser"
+      "name": "Syrer og baser"
     },
     {
       "id": "likevekter",
       "image": "/images/likevekter_liten.jpg",
-      "name": "0.3 Likevekter"
+      "name": "Likevekter"
     },
     {
       "id": "stokiometri",
       "image": "/images/stokiometri_liten.jpg",
-      "name": "0.4 Støkiometri"
+      "name": "Støkiometri og gasser"
     },
     {
       "id": "elektrokjemi",
       "image": "/images/discoveredonceagain.jpg",
-      "name": "0.5 Elektrokjemi"
+      "name": "Elektrokjemi"
     }
   ]
 }
