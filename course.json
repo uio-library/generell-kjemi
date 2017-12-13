@@ -1,37 +1,37 @@
 {
-  "name": "generell-kjemi",
-  "header" : "/images/header_kjemi.svg",
+  "repo": "uio-library/generell-kjemi",
+  "header" : "header_kjemi.svg",
   "headertext" : "Temaer i <br>Generell Kjemi",
-  "footer" : "/images/footer_kjemi_ub.svg",
+  "footer" : "footer_kjemi_ub.svg",
   "modules": [
     {
       "id" : "introduksjon",
-      "image" : "/images/termodynamikk_liten.jpg",
+      "image" : "termodynamikk_liten.jpg",
       "name" : "Introduksjon"
     },
     {
       "id": "termodynamikk",
-      "image": "/images/termodynamikk_liten.jpg",
+      "image": "termodynamikk_liten.jpg",
       "name": "Termodynamikk"
     },
     {
       "id": "syrebase",
-      "image": "/images/syrebase_liten.jpg",
+      "image": "syrebase_liten.jpg",
       "name": "Syrer og baser"
     },
     {
       "id": "likevekter",
-      "image": "/images/likevekter_liten.jpg",
+      "image": "likevekter_liten.jpg",
       "name": "Likevekter"
     },
     {
       "id": "stokiometri",
-      "image": "/images/stokiometri_liten.jpg",
+      "image": "stokiometri_liten.jpg",
       "name": "Støkiometri og gasser"
     },
     {
       "id": "elektrokjemi",
-      "image": "/images/discoveredonceagain.jpg",
+      "image": "discoveredonceagain.jpg",
       "name": "Elektrokjemi"
     }
   ]
