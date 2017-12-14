@@ -1,12 +1,12 @@
 {
   "repo": "uio-library/generell-kjemi",
   "header" : "header_kjemi.svg",
-  "headertext" : "Temaer i <br>Generell Kjemi",
+  "headertext" : "<small>Temaer i </small><br>Generell Kjemi",
   "footer" : "footer_kjemi_ub.svg",
   "modules": [
     {
       "id" : "introduksjon",
-      "image" : "termodynamikk_liten.jpg",
+      "image": "likevekter_liten.jpg",
       "name" : "Introduksjon"
     },
     {
