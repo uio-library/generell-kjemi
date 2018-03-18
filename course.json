@@ -6,17 +6,17 @@
   "modules": [
     {
       "id" : "introduksjon",
-      "image": "likevekter_liten.jpg",
+      "image": "Korker.jpg",
       "name" : "Introduksjon"
     },
     {
       "id": "termodynamikk",
-      "image": "termodynamikk_liten.jpg",
+      "image": "Gasser.jpg",
       "name": "Termodynamikk"
     },
     {
       "id": "syrebase",
-      "image": "syrebase_liten.jpg",
+      "image": "Flasker.jpg",
       "name": "Syrer og baser"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "id": "elektrokjemi",
-      "image": "discoveredonceagain.jpg",
+      "image": "termodynamikk_liten.jpg",
       "name": "Elektrokjemi"
     }
   ]
