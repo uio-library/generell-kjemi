@@ -27,8 +27,9 @@ Titrering av svak syre med sterk base for å bestemme syrekonstanten $K_a$ og sy
 <youtube-video id="C8BsLkrFAVk"></youtube-video>
 
 ### Likevektskonstanter i syre–base-systemer
+Ved beregning av pH i syrer, baser og buffere er det mange likevekter å holde orden på. I denne oppgaven ser vi på sammenhengen mellom de ulike likevektskonstantene og vurdere hvilken vei hver likevekt er forskjøvet.
 <youtube-video id="lnViexffGTw"></youtube-video>
 
 ### Flerprotisk syre
-Titrerkurve for toprotisk syre med to ulike bufferområder og et ekvivalenspunkt der vi har en *amfolytt*.
+Når vi titrerer en toprotisk syre med en sterk base får vi to ulike bufferområder og dessuten et ekvivalenspunkt der vi har en amfolytt. pH i dette punktet skal beregnes med en egen ligning.
 <youtube-video id="6a_WxNjXMCY"></youtube-video>

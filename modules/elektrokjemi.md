@@ -1,5 +1,5 @@
 ### Fra standard reduksjonspotensial til cellepotensial
-Bruk av tabellverdier fro standard reduksjonspotensial, $E^0_{\text{red}}$, for to halvceller til å finne cellereaksjon og standard cellepotensial $E^0_{\text{celle}}$.
+Bruk av tabellverdier for standard reduksjonspotensial, $E^0_{\text{red}}$, for to halvceller til å finne cellereaksjon og standard cellepotensial $E^0_{\text{celle}}$. Hvordan kan vi forsikre oss om at et utregnet potensial er rimelig?
 <youtube-video id="ZXM2DM5QCXU"></youtube-video>
 
 ### Nernsts ligning

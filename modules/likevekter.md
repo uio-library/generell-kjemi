@@ -19,7 +19,7 @@ Hvordan man kan beregne ioneproduktet (generelt *reaksjonskvotient*) for en vann
 <youtube-video id="RtWkUMFlmsA"></youtube-video>
 
 ### Kompleksioner
-Dannelse av stabile komplekser mellom et metallion og en ligand, avsluttende beregning av konsentrasjonen til det som er begrensende reaktant.
+Mange metallioner vekselvirker sterkt med andre molekyler eller ioner (ligander) og danner stabile komplekser. Likevektene er da helt forskjøvet mot høyre, og beregning av konsentrasjonene til ioner og molekyler i løsningen må utføres etter riktig metode.
 <youtube-video id="5ji0lsaRD-s"></youtube-video>
 
 
