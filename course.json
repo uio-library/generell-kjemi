@@ -7,32 +7,38 @@
     {
       "id" : "introduksjon",
       "image": "586A9160.jpg",
-      "name" : "Introduksjon"
+      "name" : "Introduksjon",
+      "imageaspectratio": 2.325
     },
     {
       "id": "termodynamikk",
       "image": "586A1088.jpg",
-      "name": "Termodynamikk"
+      "name": "Termodynamikk",
+      "imageaspectratio": 2.325
     },
     {
       "id": "syrebase",
       "image": "586A9326.jpg",
-      "name": "Syrer og baser"
+      "name": "Syrer og baser",
+      "imageaspectratio": 2.325
     },
     {
       "id": "likevekter",
       "image": "IMG_0959.jpg",
-      "name": "Likevekter"
+      "name": "Likevekter",
+      "imageaspectratio": 2.325
     },
     {
       "id": "stokiometri",
       "image": "586A5258.jpg",
-      "name": "Støkiometri og gasser"
+      "name": "Støkiometri og gasser",
+      "imageaspectratio": 2.325
     },
     {
       "id": "elektrokjemi",
-      "image": "586A1937.jpg",
-      "name": "Elektrokjemi"
+      "image": "586A1937b.jpg",
+      "name": "Elektrokjemi",
+      "imageaspectratio": 2.325
     }
   ]
 }
