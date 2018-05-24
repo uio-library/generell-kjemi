@@ -6,17 +6,17 @@
   "modules": [
     {
       "id" : "introduksjon",
-      "image": "Korker.jpg",
+      "image": "586A9160.jpg",
       "name" : "Introduksjon"
     },
     {
       "id": "termodynamikk",
-      "image": "Gasser.jpg",
+      "image": "586A1088.jpg",
       "name": "Termodynamikk"
     },
     {
       "id": "syrebase",
-      "image": "Flasker.jpg",
+      "image": "586A9326.jpg",
       "name": "Syrer og baser"
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "id": "stokiometri",
-      "image": "stokiometri_liten.jpg",
+      "image": "586A5258.jpg",
       "name": "Støkiometri og gasser"
     },
     {
       "id": "elektrokjemi",
-      "image": "termodynamikk_liten.jpg",
+      "image": "586A1937.jpg",
       "name": "Elektrokjemi"
     }
   ]
