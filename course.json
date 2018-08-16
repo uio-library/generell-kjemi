@@ -1,8 +1,11 @@
 {
+  "version": 2,
   "repo": "uio-library/generell-kjemi",
-  "header" : "header_kjemi.svg",
-  "headertext" : "<small>Temaer i </small><br>Generell Kjemi",
-  "footer" : "footer_kjemi_ub.svg",
+  "domain": "generellkjemi.uio.no",
+  "header": {
+    "background": "header_kjemi.svg",
+    "text" : "<small>Temaer i </small><br>Generell Kjemi"
+  },
   "modules": [
     {
       "id" : "introduksjon",
@@ -40,5 +43,33 @@
       "name": "Elektrokjemi",
       "imageaspectratio": 2.325
     }
-  ]
+  ],
+  "footer" : {
+    "publishers": [
+      {
+        "label": "Kjemisk institutt",
+        "link": "https://www.mn.uio.no/kjemi"
+      },
+      {
+        "label": "Realfagsbiblioteket",
+        "link": "https://www.ub.uio.no/bibliotekene/ureal/ureal/"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Innhold",
+        "label": "Carl Henrik Gørbitz",
+        "link": "https://www.mn.uio.no/kjemi/personer/vit/carlhg/"
+      },
+      {
+        "role": "Foto",
+        "label": "Simen Kjellin",
+        "link": "https://www.ub.uio.no/om/ansatte/ureal/urealpublikum/simenkje/"
+      }
+    ],
+    "editor": {
+      "label": "Nettredaktør",
+      "link": "mailto:ub-web@ub.uio.no"
+    }
+  }
 }
