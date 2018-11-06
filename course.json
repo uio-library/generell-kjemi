@@ -4,7 +4,7 @@
   "domain": "generellkjemi.uio.no",
   "header": {
     "background": "header_kjemi.svg",
-    "text" : "<small>Temaer i </small><br>Generell Kjemi"
+    "text" : "Temaer i generell kjemi"
   },
   "modules": [
     {
